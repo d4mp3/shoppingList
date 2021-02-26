@@ -6,12 +6,8 @@
 * [Setup](#setup)
 * [Status](#status)
 
-
 ## General info
 It is a simple shopping list
-
-## Screenshots
-![Example screenshot](./images/ss.png)
 
 ## Technologies
 * Javascript - DOM
